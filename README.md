@@ -39,5 +39,11 @@ and finally create the executable using pyinstaller:
 pyinstaller --onefile pythonFileName.py
 ```
 
-Enjoy!
+</br>
+
+## To Do:
+
+- Convert audio to .mp3
+- Choose audio/video format 
+- GUI
 
