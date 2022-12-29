@@ -19,7 +19,7 @@ def download_from_youtube(link, choice):
         else:
             print("Choice not valid.")
 
-        print("\nDownload completed!\nFind your file: " + output.title())
+        print("\nDownload completed!")
     except:
         print("Error: the file couldn't be downloaded.")
 
