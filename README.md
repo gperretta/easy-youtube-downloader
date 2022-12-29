@@ -43,7 +43,6 @@ pyinstaller --onefile pythonFileName.py
 
 ### To-Do list
 
-- Convert audio to .mp3
 - Choose audio/video format 
 - GUI
 
