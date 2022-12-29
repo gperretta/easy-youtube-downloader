@@ -1,6 +1,6 @@
 # 🎥 Youtube Downloader
 
-Quick and easy downloader for youtube videos, featuring three download options:
+Easy downloader for youtube videos, featuring three download options:
 - Highest resolution video 📈
 - Lowest resolution video 📉 
 - Audio only 🎧
