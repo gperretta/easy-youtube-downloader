@@ -55,8 +55,4 @@ pyinstaller --onefile pythonFileName.py
 
 </br>
 
-## To-Do list
-
-- Choose audio/video format 
-- GUI
 
